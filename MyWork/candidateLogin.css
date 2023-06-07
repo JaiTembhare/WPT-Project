@@ -1,0 +1,11 @@
+.btn-1 {
+  background:  rgb(144, 110, 22);
+  background: linear-gradient(0deg, rgb(144, 110, 22) 0%, rgb(214, 161, 27) 100%);
+  border: none;
+  border-radius: 10%;
+  margin-top: 20px;
+}
+.btn-1:hover {
+  background: rgb(214, 161, 27);
+background: linear-gradient(0deg, rgb(214, 161, 27) 0%, rgb(233, 186, 69) 100%);
+}
